@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+.test-env/
+.py3-env
+.py2-env
